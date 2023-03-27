@@ -1611,10 +1611,10 @@
   dependencies:
     lib0 "^0.2.42"
 
-"@hocuspocus/common@^1.0.0-beta.6":
-  version "1.0.0-beta.6"
-  resolved "https://registry.yarnpkg.com/@hocuspocus/common/-/common-1.0.0-beta.6.tgz#f093820d227dcab17b697071eb0ce38c54048ead"
-  integrity sha512-XtlMfFtEY76VmEjOZHCitrHraswinC4C5lXvLnMBmRYjxDNWpuB0A9J55kkvKnV7AdJ0nCd78eo9GhSXuHpd2g==
+"@hocuspocus/common@^1.0.0-beta.6", "@hocuspocus/common@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@hocuspocus/common/-/common-1.1.2.tgz#5c656d1f786ebbd763cd3659d9a69c06de268c7b"
+  integrity sha512-RCI9PwqTYEtPDJS8q80TLRD4JTtvisqLEX+EBtluDbwFTu++h004B+5gf2lUmysv4e65qWVYb57rRfWIGjcy4w==
   dependencies:
     lib0 "^0.2.47"
 
@@ -1627,19 +1627,19 @@
     "@lifeomic/attempt" "^3.0.2"
     lib0 "^0.2.46"
 
-"@hocuspocus/server@^1.0.0-beta.6":
-  version "1.0.0-beta.6"
-  resolved "https://registry.yarnpkg.com/@hocuspocus/server/-/server-1.0.0-beta.6.tgz#d36e2cd62d9fc1059310e712bb6f1208ef0e3e3e"
-  integrity sha512-54N5sdxaDGN7v6XVPyYI+XjhNlH82hFXkh3VQg3H/Hmpaw9gpXSUwaozxTOpiN4hhjLrQ95sDyqnve5G52a6Xw==
+"@hocuspocus/server@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@hocuspocus/server/-/server-1.1.2.tgz#c2ceab9938d4ff679ba22446e70fa3ce71fd6600"
+  integrity sha512-L6YHENRSyXDbYyFGt3S1etJq62XZEj6Z9QUmhqzOjlxQYHC/eaGtrCbAxi5dLKXORl3AY4CVtTfFN+3asmmT6w==
   dependencies:
-    "@hocuspocus/common" "^1.0.0-beta.6"
+    "@hocuspocus/common" "^1.1.2"
     "@types/async-lock" "^1.1.3"
-    "@types/uuid" "^8.3.4"
+    "@types/uuid" "^9.0.0"
     "@types/ws" "^8.5.3"
     async-lock "^1.3.1"
     kleur "^4.1.4"
     lib0 "^0.2.46"
-    uuid "^8.3.2"
+    uuid "^9.0.0"
     ws "^8.5.0"
 
 "@humanwhocodes/config-array@^0.5.0":
@@ -3487,10 +3487,10 @@
   resolved "https://registry.yarnpkg.com/@types/utf8/-/utf8-3.0.1.tgz#bf081663d4fff05ee63b41f377a35f8b189f7e5b"
   integrity sha512-1EkWuw7rT3BMz2HpmcEOr/HL61mWNA6Ulr/KdbXR9AI0A55wD4Qfv8hizd8Q1DnknSIzzDvQmvvY/guvX7jjZA==
 
-"@types/uuid@^8.3.4":
-  version "8.3.4"
-  resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-8.3.4.tgz#bd86a43617df0594787d38b735f55c805becf1bc"
-  integrity sha512-c/I8ZRb51j+pYGAu5CrFMRxqZ2ke4y2grEBO5AUjgSkSk+qT2Ea+OdWElz/OiMf5MNpn2b17kuVBwZLQJXzihw==
+"@types/uuid@^9.0.0":
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-9.0.1.tgz#98586dc36aee8dacc98cc396dbca8d0429647aa6"
+  integrity sha512-rFT3ak0/2trgvp4yYZo5iKFEPsET7vKydKF+VRCxlQ9bpheehyAJH89dAkaLEq/j/RZXJIqcgsmPJKUP1Z28HA==
 
 "@types/validator@*", "@types/validator@^13.7.1", "@types/validator@^13.7.10":
   version "13.7.10"
